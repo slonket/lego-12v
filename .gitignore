@@ -1,0 +1,6 @@
+*-backups
+*.kicad_prl
+*docs
+
+# macOS
+*.DS_Store

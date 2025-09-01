@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Decoder_Footprints")(type "KiCad")(uri "/Users/avawolfe/Documents/Electronics/decoder/__common/kicad_library/Decoder_Footprints.pretty")(options "")(descr ""))
+  (lib (name "Decoder_Mechanical")(type "KiCad")(uri "/Users/avawolfe/Documents/Electronics/decoder/__common/kicad_library/Decoder_Mechanical.pretty")(options "")(descr ""))
+)

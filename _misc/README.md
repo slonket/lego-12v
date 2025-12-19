@@ -21,3 +21,9 @@ It is advisable to use these connectors exclusively with each other and to not c
 - `wide_plug_housing` - Wide version of the dual-plug connector for use with the 12V controller's regulated output. Depth is equivalent to the standard dual plug housing. Lacks top-entry holes for orthogonal connections. Requires 2 _Conrad Electronic_ pins.
 
 **NOTE:** The original gray Lego wires are 22awg (0.34mm<sup>2</sup>) dual stereo wire. 1.27mm (0.1") pitch ribbon cable is a suitable substitute for the original wire due to its gray colour and lack of marking stripe (when spliced), though is typically smaller in gauge, thinner, and a lighter shade of insulation. You can search for "Speaker Wire" with similar specifications to the original Lego wire, though almost all options have a black polarity stripe.
+
+### Bufferless Beams
+
+Sometimes you just don't want buffers on your beams!
+
+- `bufferless_beam` - A version of 4022 without buffers. Slight modifications have been made to improve printability. This part is best printed upside down.

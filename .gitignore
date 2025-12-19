@@ -4,3 +4,7 @@
 
 # macOS
 *.DS_Store
+
+# currently hidden items
+track/*
+*.3mf
